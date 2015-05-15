@@ -1,3 +1,4 @@
+# Welcome
 
 Hi team.  Welcome to Diving into Riak!
 
