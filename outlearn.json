@@ -9,12 +9,12 @@
       "privacy" : "public",
       "pages" : [
         {"page" : "./context-pages/welcome.md"},
-        {"module" : "outlearn://koreiklein/before-we-begin"},
+        {"module" : "before-we-begin"},
         {"page" : "./context-pages/prepare.md"},
         {"page" : "./context-pages/python.md"},
         {"page" : "./context-pages/http-api.md"},
         {"page" : "./context-pages/clojure.md"},
-        {"module" : "outlearn://koreiklein/conclusion"},
+        {"module" : "conclusion"},
         {"page" : "./context-pages/live-long.md"}
       ]
     }
