@@ -15,8 +15,8 @@
         {"page" : "./context-pages/python.md"},
         {"page" : "./context-pages/http-api.md"},
         {"page" : "./context-pages/clojure.md"},
-        {"module" : "conclusion"},
-        {"page" : "./context-pages/live-long.md"}
+        {"page" : "./context-pages/live-long.md"},
+        {"module" : "conclusion"}
       ]
     }
   ],
