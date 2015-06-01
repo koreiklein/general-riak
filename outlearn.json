@@ -4,7 +4,9 @@
   "paths" : [
     {
       "name" : "general-riak",
+      "coverImage" : "https://www.petfinder.com/wp-content/uploads/2012/11/dog-how-to-select-your-new-best-friend-thinkstock99062463.jpg",
       "title" : "Diving into Riak",
+      "coverImage" : "http://basho.com/wp-content/uploads/2015/04/high_availabilty_Lrg_Products.jpg",
       "description" : "An introduction to Riak using Python and HTTP API",
       "privacy" : "public",
       "pages" : [

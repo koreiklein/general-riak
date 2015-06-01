@@ -1,6 +1,7 @@
 <!--
 name: before-we-begin
 freshnessDate: 2015-01-12
+coverImage: "http://www.nose2tail.co.uk/cat-matlock-derbyshire.jpg"
 version : "0.1"
 title : "Before We Begin"
 description: "Set expectations and assess initial confidence."
