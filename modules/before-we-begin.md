@@ -6,7 +6,7 @@
   "version" : "0.1",
   "title" : "Before We Begin",
   "description" : "Set expectations and assess initial confidence.",
-  "license"" : "CC Attribution-ShareAlike 4.0"
+  "license" : "CC Attribution-ShareAlike 4.0"
 }
 -->
 
