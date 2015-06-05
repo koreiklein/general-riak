@@ -6,13 +6,13 @@
   "version" : "0.1",
   "title" : "Before We Begin",
   "description" : "Set expectations and assess initial confidence.",
-  "license"" : "CC Attribution-ShareAlike 4.0"
+  "license" : "CC Attribution-ShareAlike 4.0"
 }
 -->
 
-<!-- @section, "title": "Getting started" -->
+<!-- @section, "tile": "Getting started" -->
 
-<!-- @task, "text" : "In order to get to know you better, paste in your name", "hasDeliverable" : true -->
+<!-- @task, "tet" : "In order to get to know you better, paste in your name", "hasDeliverable" : true -->
 
 We'll kick things of with a case study of from Kiip and how they use Riak to connect advertisers and app makers. Next in line will be an overview from Basho on what Riak is good at.
 
