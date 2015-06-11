@@ -30,6 +30,8 @@ What should **you** be able to do?
   And continue to the next line
   - [ ] Fit on the same line as before
 
+  Continue after a line break.
+
 
   - [ ] Add a multiple choice answer after a newline
   - [X] Start a multiple choice answer and have it continue
