@@ -44,13 +44,16 @@ Multiple Choice answers support the full markdown syntax, but without the Outlea
 Which of these people created Linux?
 
 - [ ] ![](http://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bill_Gates_July_2014.jpg/220px-Bill_Gates_July_2014.jpg)
-**Bill Gates**
+
+  **Bill Gates**
 
 - [X] ![](http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/LinuxCon_Europe_Linus_Torvalds_03.jpg/220px-LinuxCon_Europe_Linus_Torvalds_03.jpg)
-**Linus Torvalds**
+
+  **Linus Torvalds**
 
 - [ ] ![](http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Guido_van_Rossum_OSCON_2006.jpg/200px-Guido_van_Rossum_OSCON_2006.jpg)
-**Guido van Rossum**
+
+  **Guido van Rossum**
 
 <!-- @end -->
 
