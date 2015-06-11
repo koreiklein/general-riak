@@ -20,6 +20,27 @@ We'll kick things of with a case study of from Kiip and how they use Riak to con
 
 The next two modules will help you get an overview of the concepts underlying Riak as well as get a working environment up and running. We'll then dive right into using Python for CRUD operations, querying, and object modeling. The Python modules will be followed by several modules on using the Riak HTTP API. The explanation of using different languages with Riak will be concluded by a module on Clojure.
 
+<!-- @multipleChoice -->
+
+# Question:
+
+What should **you** be able to do?
+
+  - [ ] Start on one line...
+  And continue to the next line
+  - [ ] Fit on the same line as before
+
+
+  - [ ] Add a multiple choice answer after a newline
+  - [X] Start a multiple choice answer and have it continue
+# As a header on the line following
+
+With a little extra context at the end
+  - [ ]
+
+And have an empty answer just before the hint.
+
+<!-- @end -->
 
 # Here is what you be able to do
 
