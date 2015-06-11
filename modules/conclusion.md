@@ -14,7 +14,9 @@ license : "CC Attribution-ShareAlike 4.0"
 ### Operator Precedence
 
 
+```javascript
 Which of the following code snippets is equivalent to `var x = a + b * c + d;` ?
+```
 
 - [ ] `var x = (a + b) * (c + d);`
 - [ ] `var x = a + ((b * (c + d));`
