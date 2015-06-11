@@ -17,8 +17,9 @@ Which of the following code snippets is equivalent to `var x = a + b * c + d;` ?
 
 - [ ] `var x = (a + b) * (c + d);`
 - [ ] `var x = a + ((b * c) + d);`
+- [X] `var x = (a + (b * c)) + d;`
 - [ ] `var x = (a + (b * c)) + d;`
-- [ ] `var x = (a + (b * c)) + d;`
+- [X] `var x = a + ((b * c) + d);`
 
 Remember, `*` has higher precedence than `+`, so it will bind tighter.
 
