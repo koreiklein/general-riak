@@ -9,6 +9,21 @@ license : "CC Attribution-ShareAlike 4.0"
 
 <!-- @section, "title": "Here is what you have learned" -->
 
+<!-- @multipleChoice -->
+
+### Operator Precedence
+
+Which of the following code snippets is equivalent to `var x = a + b * c + d;` ?
+
+- [ ] `var x = (a + b) * (c + d);`
+- [ ] `var x = a + ((b * c) + d);`
+- [ ] `var x = (a + (b * c)) + d;`
+- [ ] `var x = (a + (b * c)) + d;`
+
+Remember, `*` has higher precedence than `+`, so it will bind tighter.
+
+<!-- @end -->
+
 Well done, you've covered a lot of ground. The key things you learned in this path are:
 
 - Compare Riak with other NoSQL databases and also compare it with relational databases
