@@ -19,8 +19,6 @@ Which of the following code snippets is equivalent to the following:
 `var x = a + b * c + d;`
 ```
 
-?
-
 - [ ] `var x = (a + b) * (c + d);`
 - [ ] `var x = a + ((b * (c + d));`
 - [X] `var x = (a + (b * c)) + d;`
