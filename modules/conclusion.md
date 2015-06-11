@@ -13,10 +13,13 @@ license : "CC Attribution-ShareAlike 4.0"
 
 ### Operator Precedence
 
+Which of the following code snippets is equivalent to the following:
 
 ```javascript
-Which of the following code snippets is equivalent to `var x = a + b * c + d;` ?
+`var x = a + b * c + d;`
 ```
+
+?
 
 - [ ] `var x = (a + b) * (c + d);`
 - [ ] `var x = a + ((b * (c + d));`
