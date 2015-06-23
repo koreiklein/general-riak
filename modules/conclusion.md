@@ -10,7 +10,7 @@ license : "CC Attribution-ShareAlike 4.0"
 <!-- @section, "title": "Here is what you have learned" -->
 
 
-In OLM, we can define multiple choice questions by putting them between a @multipleChoice and an @end annotation.
+In OLM, we can define multiple choice questions by putting them between a `@multipleChoice` and an `@end` annotation.
 
 <!-- @multipleChoice -->
 
@@ -26,7 +26,6 @@ Which of the following code snippets is equivalent to the following:
 - [ ] `var x = a + ((b * (c + d));`
 - [X] `var x = (a + (b * c)) + d;`
 - [ ] `var x = ((a + b) * c) + d;`
-- [X] `var x = a + ((b * c) + d);`
 
 Remember, `*` has higher precedence than `+`, so it will bind tighter.
 
