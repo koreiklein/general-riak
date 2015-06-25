@@ -12,13 +12,13 @@
       "socialBar" : false,
       "privacy" : "public",
       "pages" : [
-        {"module" : "before-we-begin"},
         {"page" : "./context-pages/live-long.md"},
         {"page" : "./context-pages/prepare.md"},
         {"page" : "./context-pages/python.md"},
         {"page" : "./context-pages/http-api.md"},
         {"page" : "./context-pages/clojure.md"},
         {"page" : "./context-pages/welcome.md"},
+        {"module" : "before-we-begin"},
         {"module" : "conclusion"}
       ]
     }
