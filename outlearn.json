@@ -17,7 +17,7 @@
         {"page" : "./context-pages/python.md"},
         {"page" : "./context-pages/http-api.md"},
         {"page" : "./context-pages/clojure.md"},
-        {"module" : "before-we-begin"},
+        {"module" : "before-we-begin"}
       ]
     }
   ],
