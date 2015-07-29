@@ -9,7 +9,7 @@
       "coverImage" : "http://basho.com/wp-content/uploads/2015/04/high_availabilty_Lrg_Products.jpg",
       "description" : "An introduction to Riak using Python and HTTP API",
       "socialBar" : false,
-      "privacy" : "public",
+      "privacy" : "private",
       "collaborationChannel" : "https://outlearn.slack.com/messages/techies/",
       "pages" : [
         {"page" : "./context-pages/welcome.md"},
