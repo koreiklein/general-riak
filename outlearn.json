@@ -10,6 +10,7 @@
       "description" : "An introduction to Riak using Python and HTTP API",
       "socialBar" : false,
       "privacy" : "public",
+      "collaborationChannel" : "https://outlearn.slack.com/messages/techies/",
       "pages" : [
         {"page" : "./context-pages/welcome.md"},
         {"page" : "./context-pages/live-long.md"},
