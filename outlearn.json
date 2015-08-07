@@ -18,7 +18,19 @@
         {"page" : "./context-pages/python.md"},
         {"page" : "./context-pages/http-api.md"},
         {"page" : "./context-pages/clojure.md"},
-        {"module" : "before-we-begin"}
+        {"module" : "before-we-begin"},
+        {"module" : "before-we-begin-1.md"},
+        {"module" : "before-we-begin-2.md"},
+        {"module" : "before-we-begin-3.md"},
+        {"module" : "before-we-begin-4.md"},
+        {"module" : "before-we-begin-5.md"},
+        {"module" : "before-we-begin-5.md"},
+        {"module" : "before-we-begin-6.md"},
+        {"module" : "before-we-begin-7.md"},
+        {"module" : "before-we-begin-8.md"},
+        {"module" : "before-we-begin-9.md"},
+        {"module" : "before-we-begin-10.md"},
+        {"module" : "before-we-begin-11.md}
       ]
     }
   ],
@@ -27,6 +39,18 @@
   "modules" : [
     {
       "olm" : "./modules/before-we-begin.md"
+      "olm" : "./modules/before-we-begin-1.md",
+      "olm" : "./modules/before-we-begin-2.md",
+      "olm" : "./modules/before-we-begin-3.md",
+      "olm" : "./modules/before-we-begin-4.md",
+      "olm" : "./modules/before-we-begin-5.md",
+      "olm" : "./modules/before-we-begin-5.md",
+      "olm" : "./modules/before-we-begin-6.md",
+      "olm" : "./modules/before-we-begin-7.md",
+      "olm" : "./modules/before-we-begin-8.md",
+      "olm" : "./modules/before-we-begin-9.md",
+      "olm" : "./modules/before-we-begin-10.md",
+      "olm" : "./modules/before-we-begin-11.md"
     },
     {
       "olm" : "./modules/conclusion.md"
