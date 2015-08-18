@@ -10,7 +10,7 @@
 }
 -->
 
-<!-- @section, "title": "Before We Begin" -->
+<!-- @section, "title": "Getting Started" -->
 
 <!-- @task, "text" : "In order to get to know you better, paste in your name", "hasDeliverable" : true -->
 
