@@ -13,24 +13,12 @@
       "collaborationChannel" : "https://outlearn.slack.com/messages/techies/",
       "pages" : [
         {"page" : "./context-pages/welcome.md"},
+        {"module" : "before-we-begin"},
         {"page" : "./context-pages/live-long.md"},
         {"page" : "./context-pages/prepare.md"},
         {"page" : "./context-pages/python.md"},
         {"page" : "./context-pages/http-api.md"},
-        {"page" : "./context-pages/clojure.md"},
-        {"module" : "before-we-begin"},
-        {"module" : "before-we-begin-1"},
-        {"module" : "before-we-begin-2"},
-        {"module" : "before-we-begin-3"},
-        {"module" : "before-we-begin-4"},
-        {"module" : "before-we-begin-5"},
-        {"module" : "before-we-begin-5"},
-        {"module" : "before-we-begin-6"},
-        {"module" : "before-we-begin-7"},
-        {"module" : "before-we-begin-8"},
-        {"module" : "before-we-begin-9"},
-        {"module" : "before-we-begin-10"},
-        {"module" : "before-we-begin-11"}
+        {"page" : "./context-pages/clojure.md"}
       ]
     }
   ],
