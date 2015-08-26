@@ -26,18 +26,6 @@
 
   "modules" : [
     { "olm" : "./modules/before-we-begin.md" },
-    { "olm" : "./modules/before-we-begin-1.md" },
-    { "olm" : "./modules/before-we-begin-2.md" },
-    { "olm" : "./modules/before-we-begin-3.md" },
-    { "olm" : "./modules/before-we-begin-4.md" },
-    { "olm" : "./modules/before-we-begin-5.md" },
-    { "olm" : "./modules/before-we-begin-5.md" },
-    { "olm" : "./modules/before-we-begin-6.md" },
-    { "olm" : "./modules/before-we-begin-7.md" },
-    { "olm" : "./modules/before-we-begin-8.md" },
-    { "olm" : "./modules/before-we-begin-9.md" },
-    { "olm" : "./modules/before-we-begin-10.md" },
-    { "olm" : "./modules/before-we-begin-11.md" },
     { "olm" : "./modules/conclusion.md" }
   ],
 
