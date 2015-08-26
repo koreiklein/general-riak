@@ -4,13 +4,14 @@
   "freshnessDate" : 2015-01-12,
   "coverImage" : "http://www.nose2tail.co.uk/cat-matlock-derbyshire.jpg",
   "version" : "0.1",
+  "homepage" : "https://www.test.com",
   "title" : "Before We Begin",
   "description" : "Set expectations and assess initial confidence.",
   "license" : "CC Attribution-ShareAlike 4.0"
 }
 -->
 
-<!-- @section, "title": "Getting started" -->
+<!-- @section, "title": "Getting Started" -->
 
 
 <!-- @task, "text" : "In order to get to know you better, paste in your name", "hasDeliverable" : true -->
@@ -64,3 +65,5 @@ Part of the beaty of online learning is that you can time it flexibly. But you d
 # Prerequisites
 
 This path assumes that you already know Python, basics of HTTP APIs, and have a general idea of how databases work. If you have specific areas where you'd like some refreshing and you're not sure where to find it, reach out to John for some suggestions.
+
+
