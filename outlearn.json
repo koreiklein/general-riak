@@ -11,6 +11,7 @@
       "privacy" : "private",
       "collaborationChannel" : "https://outlearn.slack.com/messages/techies/",
       "pages" : [
+        {"page" : "./context-pages/empty.md"},
         {"page" : "./context-pages/welcome.md"},
         {"module" : "before-we-begin", "preface" : "Read this module before you start." },
         {"page" : "./context-pages/live-long.md"},
