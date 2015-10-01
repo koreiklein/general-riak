@@ -5,7 +5,7 @@
     {
       "name" : "new-riak",
       "title" : "Diving into Riak",
-      "coverImage" : "https://www.pender.com/wp-content/uploads/2012/11/dog-how-to-select-your-new-best-friend-thinkstock99062463.jpg",
+      "coverImage" : "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lynx_Canadensis.jpg",
       "description" : "An introduction to Riak using Python and HTTP API",
       "socialBar" : false,
       "privacy" : "private",
