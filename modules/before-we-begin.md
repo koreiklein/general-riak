@@ -13,7 +13,10 @@
 <!-- @section, "title": "Getting Started" -->
 
 
-<!-- @task, "text" : "In order to get to know you better, paste in your name", "hasDeliverable" : true -->
+<!-- @task, "text" : "Task 0", "hasDeliverable" : true -->
+<!-- @task, "text" : "Task 1", "hasDeliverable" : true -->
+<!-- @task, "text" : "Task 2", "hasDeliverable" : true -->
+
 
 We'll kick things of with a case study of from Kiip and how they use Riak to connect advertisers and app makers. Next in line will be an overview from Basho on what Riak is good at.
 
