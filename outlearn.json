@@ -13,7 +13,7 @@
       "pages" : [
         {"link" : "https://aespinosa.github.io/blog/2014-11-01-mpich3-over-docker.html",
          "preface" : "I'm an OLP defined preface.",
-         "title" : "Putting the Docker back in the Jungle."},
+         "title" : "Putting the Docker back in the Boy."},
         {"page" : "./context-pages/welcome.md"},
         {"module" : "before-we-begin", "preface" : "Read this module before you start." },
         {"page" : "./context-pages/live-long.md"},
