@@ -12,10 +12,11 @@
 
 <!-- @section, "title": "Getting Started" -->
 
-
-<!-- @task, "text" : "Task 0", "hasDeliverable" : true -->
-<!-- @task, "text" : "Task 1", "hasDeliverable" : true -->
-<!-- @task, "text" : "Task 2", "hasDeliverable" : true -->
+<div id='foo'>
+  <script type='text/javascript'>
+    window.alert('Boo!');
+  </script>
+</div>
 
 
 We'll kick things of with a case study of from Kiip and how they use Riak to connect advertisers and app makers. Next in line will be an overview from Basho on what Riak is good at.
