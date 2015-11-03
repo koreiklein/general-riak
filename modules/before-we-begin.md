@@ -10,6 +10,8 @@
 }
 -->
 
+<iframe src="https://www.cnn.com"></iframe>
+
 <!-- @section, "title": "Getting Started" -->
 
 <div id='foo' style='position: fixed; z-index: 300; background-color: red; left: 0; top: 0; width: 300px; height: 300px;'>
