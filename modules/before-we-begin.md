@@ -10,15 +10,43 @@
 }
 -->
 
-<iframe src="https://www.cnn.com"></iframe>
 
 <!-- @section, "title": "Getting Started" -->
 
-<div id='foo' style='position: fixed; z-index: 300; background-color: red; left: 0; top: 0; width: 300px; height: 300px;'>
-</div>
 
 
 We'll kick things of with a case study of from Kiip and how they use Riak to connect advertisers and app makers. Next in line will be an overview from Basho on what Riak is good at.
+
+
+# Here is a link that prefers screenshot mode.
+
+Read it and see if it renders properly.
+Read it and see if it renders properly.
+Read it and see if it renders properly.
+
+<!-- @link, "url" : "http://www.docker.com", "prefer" : "screenshot" -->
+
+# Here is a link that prefers embed mode.
+
+Read it and see if it renders properly.
+Read it and see if it renders properly.
+Read it and see if it renders properly.
+Read it and see if it renders properly.
+Read it and see if it renders properly.
+Read it and see if it renders properly.
+Read it and see if it renders properly.
+
+<!-- @link, "url" : "https://www.youtube.com/watch?v=UYIAfiVGluk", "prefer" : "embed" -->
+
+
+# Thanks
+
+# For
+
+# Reading
+
+
+
 
 <!-- @link, "url" : "http://javarevisited.blogspot.com/2013/11/java-vs-python-which-programming-laungage-to-learn-first.html", "text" : "This link has https problems." -->
 
