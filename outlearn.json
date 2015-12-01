@@ -22,6 +22,7 @@
         {"page" : "./context-pages/python.md"},
         {"page" : "./context-pages/http-api.md"},
         {"page" : "./context-pages/clojure.md"}
+        {"module" : "conclusion", "preface" : "This module finishes it up." },
       ]
     }
   ],
