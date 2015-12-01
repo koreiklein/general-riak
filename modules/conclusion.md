@@ -4,6 +4,7 @@ freshnessDate: 2015-04-04
 version : "0.1"
 title : "Conclusion and Next Steps"
 description: "Review what learners have learned and suggest next steps"
+privacy: "private"
 license : "CC Attribution-ShareAlike 4.0"
 -->
 
