@@ -70,7 +70,7 @@ What should **you** be able to do?
 # As a header on the line following
 
 With a little extra context at the end
-  - [ ]
+  - [ ] Have a question!
 
 And have an empty answer just before the hint.
 
