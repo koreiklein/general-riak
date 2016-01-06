@@ -13,7 +13,7 @@
 
 <!-- @section, "title": "Getting Started" -->
 
-<!-- @resource, "imageUrl" : "", "url" : "http://www.cnn.com" -->
+<!-- @resource, "imageUrl" : "", "url" : "" -->
 
 
 
