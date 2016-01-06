@@ -13,8 +13,6 @@
 
 <!-- @section, "title": "Getting Started" -->
 
-<!-- @resource, "imageUrl" : "", "url" : "" -->
-
 
 
 We'll kick things of with a case study of from Kiip and how they use Riak to connect advertisers and app makers. Next in line will be an overview from Basho on what Riak is good at.
