@@ -9,7 +9,7 @@
       "coverImage" : "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lynx_Canadensis.jpg",
       "description" : "An introduction to Riak using Python and HTTP API",
       "socialBar" : false,
-      "privacy" : "public",
+      "privacy" : "private",
       "collaborationChannel" : "https://outlearn.slack.com/messages/techies/",
       "pages" : [
         {"link" : "https://aespinosa.github.io/blog/2014-11-01-mpich3-over-docker.html",
