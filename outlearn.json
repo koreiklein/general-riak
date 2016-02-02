@@ -2,7 +2,7 @@
 
   "olpVersion" : "0.1",
 
-  "paths" : [
+  "paths" : 
     {
       "name" : "new-riak",
       "title" : "Diving into Riak",
